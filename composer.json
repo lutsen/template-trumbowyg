@@ -1,8 +1,8 @@
 {
-	"name": "lagan/template-object",
+	"name": "lagan/template-trumbowyg",
 	"type": "lagan-template",
 	"description": "Template for the Trumbowyg WYSIWYG editor.",
-	"keywords": ["lagan","wysiwyg","property","template"],
+	"keywords": ["lagan","wysiwyg","trumbowyg","property","template"],
 	"license": "MIT",
 	"authors": [
 		{
