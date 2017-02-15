@@ -3,7 +3,7 @@
 Lagan Trumbowyg WYSIWYG editor Template
 =======================================
 
-Admin template to edit string input with the Trumbowyg WYSIWYG editor.
+Admin template that turns a textarea into a WYSIWYG editor field with the [Trumbowyg WYSIWYG editor](https://alex-d.github.io/Trumbowyg/).
 
 To do
 -----
